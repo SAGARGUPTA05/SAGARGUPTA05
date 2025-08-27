@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @SAGARGUPTA05
-- 👀 I’m interested in MERN Stack Development
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Sagar Gupta (@SAGARGUPTA05)
 
-<!---
-SAGARGUPTA05/SAGARGUPTA05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 I’m a Software Developer at **Binmile Technologies**
+- 🚀 Skilled in **TypeScript | JavaScript | NestJS | PostgreSQL | React | Tailwind CSS | C++**
+- 🌱 Currently learning and building projects with **MERN Stack & Advanced Backend Architectures**
+- 💡 Passionate about **Full Stack Development, Scalable APIs, and Problem Solving**
+- 🏆 Here’s my [LeetCode Profile](https://leetcode.com/your-leetcode-username)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)
+
+---
+
+⚡ **Fun fact:** I love solving coding challenges and exploring new technologies 🚀
